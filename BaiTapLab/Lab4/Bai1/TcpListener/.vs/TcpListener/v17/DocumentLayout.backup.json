@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai1\\TcpListener\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5624B-5ACF-493E-84A6-7E9283CE0919}|Client\\Client.csproj|e:\\socketc#\\laptrinhmang-ctk44\\baitaplab\\lab4\\bai1\\tcplistener\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5624B-5ACF-493E-84A6-7E9283CE0919}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04710204-3A87-4584-B066-B524585D2749}|Server\\Server.csproj|e:\\socketc#\\laptrinhmang-ctk44\\baitaplab\\lab4\\bai1\\tcplistener\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04710204-3A87-4584-B066-B524585D2749}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai1\\TcpListener\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai1\\TcpListener\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:49:14.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai1\\TcpListener\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai1\\TcpListener\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:49:01.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
