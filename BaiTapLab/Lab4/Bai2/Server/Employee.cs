@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using System;
 
-namespace Client
+namespace Server
 {
     class Employee
     {

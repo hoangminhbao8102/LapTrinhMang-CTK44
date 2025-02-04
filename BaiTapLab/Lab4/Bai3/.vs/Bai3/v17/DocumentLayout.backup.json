@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7F316A1-EFC7-4792-9E46-774290AF3508}|Server\\Server.csproj|e:\\socketc#\\laptrinhmang-ctk44\\baitaplab\\lab4\\bai3\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7F316A1-EFC7-4792-9E46-774290AF3508}|Server\\Server.csproj|E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai3\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7F316A1-EFC7-4792-9E46-774290AF3508}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6107A379-25B1-4CAB-A7F0-6E487C23CCC8}|Client\\Client.csproj|E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai3\\client\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6107A379-25B1-4CAB-A7F0-6E487C23CCC8}|Client\\Client.csproj|solutionrelative:client\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F316A1-EFC7-4792-9E46-774290AF3508}|Server\\Server.csproj|e:\\socketc#\\laptrinhmang-ctk44\\baitaplab\\lab4\\bai3\\server\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F316A1-EFC7-4792-9E46-774290AF3508}|Server\\Server.csproj|solutionrelative:server\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6107A379-25B1-4CAB-A7F0-6E487C23CCC8}|Client\\Client.csproj|e:\\socketc#\\laptrinhmang-ctk44\\baitaplab\\lab4\\bai3\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6107A379-25B1-4CAB-A7F0-6E487C23CCC8}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6107A379-25B1-4CAB-A7F0-6E487C23CCC8}|Client\\Client.csproj|e:\\socketc#\\laptrinhmang-ctk44\\baitaplab\\lab4\\bai3\\client\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6107A379-25B1-4CAB-A7F0-6E487C23CCC8}|Client\\Client.csproj|solutionrelative:client\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai3\\Server\\Employee.cs",
+              "RelativeDocumentMoniker": "Server\\Employee.cs",
+              "ToolTip": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai3\\Server\\Employee.cs",
+              "RelativeToolTip": "Server\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:06:15.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai3\\Client\\Employee.cs",
               "RelativeDocumentMoniker": "Client\\Employee.cs",
               "ToolTip": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai3\\Client\\Employee.cs",
               "RelativeToolTip": "Client\\Employee.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAABiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T03:55:15.52Z",
               "EditorCaption": ""
@@ -45,20 +70,20 @@
               "RelativeDocumentMoniker": "Server\\Program.cs",
               "ToolTip": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai3\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T03:54:52.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai3\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
               "ToolTip": "E:\\SocketC#\\LapTrinhMang-CTK44\\BaiTapLab\\Lab4\\Bai3\\Client\\Program.cs",
               "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T03:54:34.201Z",
               "EditorCaption": ""
