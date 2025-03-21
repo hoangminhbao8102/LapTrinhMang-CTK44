@@ -16,4 +16,4 @@ Hoc kì I - Năm 3 (2022 - 2023)<br>
 <strong>Giáo viên giảng dạy và hướng dẫn thực hành:</strong> Thầy TS. Trần Ngô Như Khánh<br>
 <br>
 Link Github: <a href="https://github.com/hoangminhbao8102/LapTrinhMang-CTK44">hoangminhbao8102/LapTrinhMang-CTK44</a><br>
-<h1 style="color:red;">SẮP HOÀN THÀNH</h1>
+<h1 style="color:red;">ĐÃ HOÀN THÀNH</h1>
